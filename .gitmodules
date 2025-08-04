@@ -1,0 +1,3 @@
+[submodule "MatMulAlgorithms"]
+	path = MatMulAlgorithms
+	url = https://github.com/Hayk10002/MatMulAlgorithms
